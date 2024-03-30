@@ -1,2 +1,2 @@
 ## Welcome! ##
-https://empatistri.gtihub.io/portfolio
+https://empatistri.github.io/portfolio/
